@@ -1,4 +1,4 @@
-
+/*
 output "virutal_network" {
   value = module.vnet.vnet_name
 }
@@ -17,4 +17,4 @@ output "log_analytics" {
 
 output "kubernetes_cluster" {
   value = module.kubernetes_cluster.cluster_name
-}
+}*/
