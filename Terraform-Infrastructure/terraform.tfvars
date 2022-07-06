@@ -7,7 +7,7 @@ virtual_network_name   = "azuredevops"
 network_security_group_name   = "azuredevops"
 
 ####### Azure Container Registry #######
-acr_registry           = "azuredevops4833"
+acr_registry           = "azuredevops45644"
 sku                    = "Standard"
 
 ####### Log Analytics Workspace #######
@@ -18,10 +18,10 @@ law_sku                = "PerGB2018"
 cluster_name           = "azuredevops-aks"
 kubernetes_version     = "1.22.6"
 system_node_count      = 2
-acr_name               = "myacr5984"
+acr_name               = "myacr598489"
 
 ####### Storage Account #######
-storage_account_name   = "azuredevops567"
+storage_account_name   = "azuredevops567983"
 account_tier           = "Standard"
 account_replication_type  = "GRS"
 container_name         = "terraform"
